@@ -9,4 +9,8 @@
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
 - 💍 What do my friends constantly say about me? that I am husband material! 👨‍👨‍👧‍👧✨
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=itsjavi&theme=dracula" />
+<div style="align:center;" align="center">
+  <center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=itsjavi&theme=dracula" />
+  </center>
+</div>
