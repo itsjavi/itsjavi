@@ -14,6 +14,6 @@
 
 <div style="align:center;" align="center">
   <center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=itsjavi&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=itsjavi&theme=nord&show_icons=true" />
   </center>
 </div>
