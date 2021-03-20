@@ -8,7 +8,7 @@
 - 🚀 Looking for an amazing dev? Reach out!
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
-- 💍 What do my friends constantly say about me? that I am husband material! 👨‍👨‍👧‍👧✨
+<!-- - 💍 What do my friends constantly say about me? that I am husband material! 👨‍👨‍👧‍👧✨ -->
 
 ## Some numbers
 
