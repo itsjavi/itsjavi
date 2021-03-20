@@ -1,4 +1,4 @@
-## [![itsjavi's header](https://github.com/itsjavi/itsjavi/blob/master/header.png)](https://blog.itsjavi.com)
+## [![itsjavi's header](https://user-images.githubusercontent.com/122741/111860840-7cd74500-894a-11eb-89ed-7f2485ff5b2e.png)](https://blog.itsjavi.com)
 
 ### Hi there, it's Javi 👋
 
