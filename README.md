@@ -1,7 +1,7 @@
 ```js
 const devLog = {
   title: "It's Super Effective!",
-  url: 'https://blog.itsjavi.com/',
+  url: 'https://blog.itsjavi.com',
   author: 'Javier Aguilar',
   about: 'Softwate and Game Development, Technology',
   frequency: ['weekly', 'daily'],
