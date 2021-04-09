@@ -1,10 +1,20 @@
-[![itsjavi's header](https://user-images.githubusercontent.com/122741/111860840-7cd74500-894a-11eb-89ed-7f2485ff5b2e.png)](https://blog.itsjavi.com)
+```js
+const devLog = {
+  title: "It's Super Effective!",
+  url: 'https://blog.itsjavi.com/',
+  author: 'Javier Aguilar',
+  about: 'Softwate and Game Development, Technology',
+  frequency: ['weekly', 'daily'],
+  awesomeness: "🦄✨"
+}
+
+```
 
 
 ## Hi there, it's Javi 👋
 
 - 🚨 My dev blog -> [It's super effective!](https://blog.itsjavi.com/)
-- 🌱 Wide range of languages, mastered PHP but I often practise JS/React, Golang, etc.
+- 🌱 Wide range of dev languages, mastered PHP but I often practise JS, Golang & more
 - 🚀 Looking for an amazing dev? Reach out!
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
