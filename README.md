@@ -4,7 +4,6 @@ const devLog = {
   url: 'https://blog.itsjavi.com',
   author: 'Javier Aguilar',
   about: 'Softwate and Game Development, Technology',
-  frequency: ['weekly', 'daily'],
   awesomeness: "🦄✨"
 }
 
