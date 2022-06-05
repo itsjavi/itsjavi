@@ -1,4 +1,4 @@
-```js
+<!--```js
 const devLog = {
   title: "It's Super Effective!",
   url: 'https://blog.itsjavi.com',
@@ -8,12 +8,15 @@ const devLog = {
 }
 
 ```
-
+-->
 
 ## Hi there, it's Javi 👋
 
-- 🚨 My dev blog -> [It's super effective!](https://blog.itsjavi.com/)
-- 🌱 Wide range of dev languages, mastered PHP but I often practise JS, Golang & more
+<!--- 🚨 My dev blog  [It's super effective!]-(https://blog.itsjavi.com/)-->
+ 
+- 💻 Senior Software Developer for more than 10 years
+- 🔬 Data Science student
+- 🌱 Wide range of dev languages, mastered PHP but I often practise JS (Node, React, NextJS), Python, Golang & more
 - 🚀 Looking for an amazing dev? Reach out!
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
