@@ -14,7 +14,7 @@ const devLog = {
 
 ☘️ [Open to Work](https://www.linkedin.com/in/itsjavi/)
 
-- 💻 Senior Software Developer for 10+ years. My last position was Tech Lead
+- 💻 Senior Software Developer (Full Stack and Backend) for 10+ years. My last position was Tech Lead.
 - 🔬 I know some Data Science after an intensive 5-month course
 - 🌱 Wide range of dev languages, mastered PHP but I often practise JS (TypeScript, React, NextJS, etc.), Python, Golang & more
 - 🚀 Looking for an amazing dev? Reach out!
