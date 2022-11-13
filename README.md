@@ -12,17 +12,19 @@ const devLog = {
 
 ## Hi there, it's Javi 👋
 
-<!--- 🚨 My dev blog  [It's super effective!]-(https://blog.itsjavi.com/)-->
- 
-- 💻 Senior Software Developer for more than 10 years
+☘️ [Open to Work](https://www.linkedin.com/in/itsjavi/)
+
+- 💻 Senior Software Developer for 10+ years
 - 🔬 Data Science student
-- 🌱 Wide range of dev languages, mastered PHP but I often practise JS (Node, React, NextJS), Python, Golang & more
+- 🌱 Wide range of dev languages, mastered PHP but I often practise JS (TypeScript, React, NextJS, etc.), Python, Golang & more
 - 🚀 Looking for an amazing dev? Reach out!
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
-<!-- - 💍 What do my friends constantly say about me? that I am husband material! 👨‍👨‍👧‍👧✨ -->
+- 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
 
-## Some numbers
+<hr />
+
+### Github Stats
 
 <div style="align:center;" align="center">
   <center>
