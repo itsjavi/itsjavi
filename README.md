@@ -12,15 +12,15 @@ const devLog = {
 
 ## Hi there, it's Javi 👋
 
-☘️ [Open to Work](https://www.linkedin.com/in/itsjavi/)
-
-- 💻 Senior Software Developer (Full Stack and Backend) for 10+ years. My last position was Tech Lead.
-- 🔬 I know some Data Science after an intensive 5-month course
-- 🌱 Wide range of dev languages, mastered PHP but I often practise JS (TypeScript, React, NextJS, etc.), Python, Golang & more
-- 🚀 Looking for an amazing dev? Reach out!
+- 💻 Senior Full Stack Developer for 10+ years.
+- 🌱 Wide range of dev languages and frameworks including: PHP, Symfony, JS, TypeScript, React, NextJS, Python, Golang & more.
+- 🔁 Agile, with a DevOps mindset.
+- 🧱 DDD & Clean Architecture are important concepts to me.
+- 🔬 I have a curious mindset and I like to keep learning. In 2022 I finished a Data Science bootcamp (full-time, 5 months) to know more about the different topics.
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
-- 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon and Eating
+- 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and Eating
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
+- 🚀 Looking for an amazing dev? Reach out!
 
 <hr />
 
