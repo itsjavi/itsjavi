@@ -20,7 +20,7 @@ const devLog = {
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some German (pretzle, bier, danke)
 - 🙉 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and Eating
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
-- 🚀 Looking for an amazing dev? [Reach out!](https:/itsjavi.com)
+- 🚀 Looking for an amazing dev? [Reach out!](https://itsjavi.com)
 
 <hr />
 
