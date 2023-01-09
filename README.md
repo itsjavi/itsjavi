@@ -24,12 +24,12 @@ const devLog = {
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
 - 🚀 Looking for a great dev? [Reach out!](https://itsjavi.com) 🌈
 
-<hr />
+<!-- <hr /> -->
 
-### Github Stats
+<!-- ### Github Stats
 
 <div style="align:center;" align="center">
   <center>
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=itsjavi&theme=nord&show_icons=true&count_private=true" />
   </center>
-</div>
+</div> -->
