@@ -25,6 +25,6 @@ const devLog = {
 - 🚀 Looking for a great dev? [Reach out!](https://itsjavi.com) 
 
 
-## Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjavi&theme=radical" alt="github-readme-streak-stats" /></p>
+<!-- ## Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjavi&theme=radical" alt="github-readme-streak-stats" /></p> -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=itsjavi&show_icons=true&theme=radical" alt="github-readme-stats" /></p> -->
