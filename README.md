@@ -12,6 +12,10 @@ const devLog = {
 
 ## Hi there, it's Javi 👋
 
+<table>
+  <tr>
+    <td>
+
 - 💻 Senior Full Stack Developer
 - 🌈 Wide range of dev languages including: PHP, JS, TypeScript, Python, Golang & C#
 - 🧩 Frameworks: Symfony, React, NextJS
@@ -24,7 +28,11 @@ const devLog = {
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
 - 🚀 Looking for a great dev? [Reach out!](https://itsjavi.com) 
 
+    </td>
+    <td>
 
-<!-- ## Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjavi&theme=radical" alt="github-readme-streak-stats" /></p> -->
-<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=itsjavi&show_icons=true&theme=radical" alt="github-readme-stats" /></p> -->
+<a href="https://app.daily.dev/itsjavi"><img src="https://api.daily.dev/devcards/823f265df2f641d2989a43f0c8b953c6.png?r=fax" width="400" alt="Javi Aguilar's Dev Card"/></a>
+    </td>
+  </tr>
+
+  </table>
