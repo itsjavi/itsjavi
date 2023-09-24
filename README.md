@@ -1,20 +1,4 @@
-<!--```js
-const devLog = {
-  title: "It's Super Effective!",
-  url: 'https://blog.itsjavi.com',
-  author: 'Javier Aguilar',
-  about: 'Softwate and Game Development, Technology',
-  awesomeness: "🦄✨"
-}
-
-```
--->
-
 ## Hi there, it's Javi 👋
-
-<table>
-  <tr>
-    <td>
 
 - 💻 Senior Full Stack Developer
 - 🌈 Wide range of dev languages including: PHP, JS, TypeScript, Python, Golang & C#
@@ -27,12 +11,3 @@ const devLog = {
 - 🐱 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and Eating
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
 - 🚀 Looking for a great dev? [Reach out!](https://itsjavi.com) 
-
-    </td>
-    <td>
-
-<a href="https://app.daily.dev/itsjavi"><img src="https://api.daily.dev/devcards/823f265df2f641d2989a43f0c8b953c6.png?r=fax" width="400" alt="Javi Aguilar's Dev Card"/></a>
-    </td>
-  </tr>
-
-  </table>
