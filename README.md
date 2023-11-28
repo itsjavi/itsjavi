@@ -6,6 +6,7 @@
 - ⚙️ Comfortable with different JS runtimes and enviroments: Browser, Node, Electron, Vercel Edge, Bun
 - ☁️ Cloud Platforms (Serverless): Vercel, AWS
 - 🔁 Agile, with a DevOps mindset.
+- 🔀 Familiar configuring CI/CD pipelines, and automation processes.
 - 🧱 DDD & Clean Architecture lover.
 - 🔬 I have a curious mind and I like to keep learning.
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some basic German.
