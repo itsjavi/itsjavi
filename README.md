@@ -23,7 +23,7 @@ Some of my side projects include:
 - ... and [many more](https://github.com/itsjavi?tab=repositories&q=&type=source)!
 
 
-## Creating a Full-Stack Framework
+### Creating a Full-Stack Framework
 I am not very happy about the current state of the frontend in the last years (2021-2024), so 
 I am also interested in creating a full-stack framework that could make Next.js blush,
 heavily relying on modern web standards (rather than reinventing or ovewritting them),
