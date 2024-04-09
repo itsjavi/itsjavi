@@ -2,12 +2,12 @@
 
 - 💻 Senior Full Stack Developer
 - 🌈 Wide range of dev languages including: PHP, JS, TypeScript, Python, Golang & C#
-- 🧩 Frameworks: Symfony, React, NextJS
+- 🧩 Frameworks: Symfony, React, NextJS, Remix
 - ⚙️ Comfortable with different JS runtimes and enviroments: Browser, Node, Electron, Vercel Edge, Bun
-- ☁️ Cloud Platforms (Serverless): Vercel, AWS
+- ☁️ Cloud Platforms (Serverless): Vercel, AWS, Cloudflare
 - 🔁 Agile, with a DevOps mindset.
 - 🔀 Familiar configuring CI/CD pipelines, and automation processes.
-- 🧱 DDD & Clean Architecture lover.
+- 🧱 DDD & Clean Architecture advocate.
 - 📚 I embrace modern Web standards as much as possible.
 - 🔬 I have a curious mind and I like to keep learning.
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some basic German.
