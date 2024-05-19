@@ -30,4 +30,4 @@ Some of my side projects include:
 While I am not actively looking for a change at the moment,
 I am always open to hear what the world has to offer to me.
 
-Specially interested in EU-based full remote positions, in a creativity-related business (fintech and e-commerce is not my thing anymore).
+Specially interested in EU-based fully remote positions.
