@@ -20,21 +20,8 @@ Some of my side projects include:
 - [StoryLite](https://itsjavi.com/storylite/): a very lightweight alternative to StoryBook for React. Currently paused, but I will get back to it next.
 - a [CSS Grid Playground](https://itsjavi.com/css-grid-playground/)
 - a photo library classifier and organizer called [Mediatidy](https://github.com/itsjavi/mediatidy-python) using Python and Tensorflow (but I also wrote a [Go version](https://github.com/itsjavi/mediatidy)).
-- A (WIP) framework called Pizza
 - ... and [many more](https://github.com/itsjavi?tab=repositories&q=&type=source)!
 
-
-### Creating a Full-Stack Framework
-I am not very happy about the current state of the frontend in the last years (2021-2024), so 
-I am also interested in creating a full-stack framework that could make Next.js blush,
-heavily relying on modern web standards (rather than reinventing or ovewritting them),
-supporting SSG, SSR, Pre-rendering and HTML streaming, and also supporting any cloud platform
-(CloudFlare, AWS, Vercel, Azure, etc.) so devs don't get vendor-locked/trapped.
-
-I am currently in a research phase, studying the techniques others are using (Next, Astro, Remix, Vike, Lume, Honox),
-but I will be happy to join efforts with other devs, specially those with experience in meta framework internals and Rust (or similar).
-
-More coming soon in https://github.com/pizzajsdev
 
 ## Open for Hiring
 
