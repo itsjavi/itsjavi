@@ -14,13 +14,12 @@
 - 🐱 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and good Pizza
 - 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
 
-## Side Projects
-Some of my side projects include: 
-- a Next.js Pokémon community called [SuperEffective.gg](https://supereffective.gg/). Currently migrating it to App Router and RSC.
-- [StoryLite](https://itsjavi.com/storylite/): a very lightweight alternative to StoryBook for React. Currently paused, but I will get back to it next.
-- a [CSS Grid Playground](https://itsjavi.com/css-grid-playground/)
-- a photo library classifier and organizer called [Mediatidy](https://github.com/itsjavi/mediatidy-python) using Python and Tensorflow (but I also wrote a [Go version](https://github.com/itsjavi/mediatidy)).
-- ... and [many more](https://github.com/itsjavi?tab=repositories&q=&type=source)!
+Creator of: 
+- [Panda CSS Color System and Theme Preset Generator](https://pandacss-theme-generator.vercel.app)
+- [SuperEffective.gg Dex Tracker](https://supereffective.gg/)
+- [StoryLite for React Components](https://itsjavi.com/storylite/)
+- [CSS Grid Playground](https://itsjavi.com/css-grid-playground/)
+- ... and [many other projects](https://github.com/itsjavi?tab=repositories&q=&type=source)!
 
 
 ## Open for Hiring
