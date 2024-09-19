@@ -13,5 +13,5 @@
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some basic German.
 - 🐱 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and good Pizza
 - 📝 I write about software engineering, experiments and other projects on my website [itsjavi.com](https:/itsjavi.com)
-  - [Projects](https:/itsjavi.com/projects)
-  - [Experiments](https:/itsjavi.com/experiments)
+  - [Projects](https://itsjavi.com/projects)
+  - [Experiments](https://itsjavi.com/experiments)
