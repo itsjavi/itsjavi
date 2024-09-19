@@ -2,7 +2,7 @@
 
 - 💻 Senior Full Stack Developer
 - 🌈 Wide range of dev languages including: PHP, JS, TypeScript, Python, Golang & C#
-- 🧩 Frameworks: Symfony, React, NextJS, Remix
+- 🧩 Frameworks: Symfony, React, NextJS, Remix, Astro
 - ⚙️ Experience with different JS runtimes and enviroments: Browser, Node, Electron, Vercel Edge, Bun
 - ☁️ Cloud Platforms (Serverless): Vercel, AWS, Cloudflare
 - 🔁 Agile, with a DevOps mindset.
@@ -12,7 +12,7 @@
 - 🔬 I have a curious mind and I like to keep learning.
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some basic German.
 - 🐱 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and good Pizza
-- 📝 I occassionaly write about software engineering on my dev blog [blog.itsjavi.com](https://blog.itsjavi.com)
+- 📝 I write about software engineering, experiments and other projects on my website [itsjavi.com](https:/itsjavi.com)
 
 Some of my recent projects: 
 - [SuperEffective.gg PokéDex Tracker](https://supereffective.gg/)
