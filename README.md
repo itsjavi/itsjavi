@@ -14,6 +14,6 @@
 - 🌎 Can speak in Spanish, Catalan, English, Italian and some basic German.
 - 🍕 Hobbies include Cooking, Singing, Hiking, Paddle surf, Sci-Fi, Pokémon games and good Pizza
 - 🐱 One of my most successful side projects is a Pokémon organizer tool called [PokéPC](https://pokepc.net/) (formerly [supereffective.gg](https://supereffective.gg/))
-- 📝 I write about software engineering, experiments and other projects on my website [itsjavi.com](https:/itsjavi.com)
+- 📝 I write about software engineering, experiments and other projects on my website itsjavi.com :
   - [Projects](https://itsjavi.com/projects)
   - [Experiments](https://itsjavi.com/experiments)
