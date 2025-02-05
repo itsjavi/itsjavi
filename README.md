@@ -2,7 +2,8 @@
 
 - 💻 Senior Full Stack Developer
 - 🌈 Wide range of dev languages including: PHP, JS, TypeScript, Python, Golang & C#
-- 🧩 Frameworks: Symfony, React, NextJS, Remix, Astro
+- 🧩 Frameworks: React, Next.js, Remix / React Router, Astro, Symfony
+- 💅 Creator of the new [CSS logo ](https://itsjavi.com/projects/new-css-logo/)
 - ⚙️ Experience with different JS runtimes and enviroments: Browser, Node, Electron, Vercel Edge, Bun
 - ☁️ Cloud Platforms (Serverless): Vercel, AWS, Cloudflare
 - 🔁 Agile, with a DevOps mindset.
