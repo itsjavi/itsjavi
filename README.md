@@ -4,4 +4,4 @@ Hi there, it's Javi 👋
 - [Published projects](https://itsjavi.com/projects)
 - [Experiments](https://itsjavi.com/experiments)
 - [My repositories by Stars](https://github.com/itsjavi?tab=repositories&q=&type=public&language=&sort=stargazers)
-- Other work: [PokePC.net](https://github.com/pokepc), [PizzaJS](https://github.com/itsjavi), [Official CSS Logo](https://github.com/CSS-Next/logo.css)
+- Other work: [PokéPC.net](https://pokepc.net), [PizzaJS](https://github.com/itsjavi), [Official CSS Logo](https://github.com/CSS-Next/logo.css)
