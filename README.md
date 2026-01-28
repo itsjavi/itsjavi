@@ -7,4 +7,4 @@ Hi there, it's Javi 👋
 - Other work: 
   - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
   - [PokéPC.net](https://pokepc.net)
-  - [PizzaJS - Tools for Full-Stack React apps](https://github.com/itsjavi)
+  - [PizzaJS - Tools for Full-Stack React apps](https://github.com/pizzajsdev)
