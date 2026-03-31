@@ -4,7 +4,7 @@ Hi there, it's Javi 👋
 - ✍️ [Published projects](https://itsjavi.com/projects)
 - 🧪 [Experiments](https://itsjavi.com/experiments)
 - ⭐️ [Repositories by popularity](https://github.com/itsjavi?tab=repositories&q=&type=public&language=&sort=stargazers)
-- 👨🏻‍💻 Other work: 
-  - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
+- 👨🏻‍💻 Other side projects: 
   - [PokéPC.net](https://pokepc.net)
-  - [PizzaJS - Tools for Full-Stack React apps](https://github.com/pizzajsdev)
+  - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
+  - [PizzaJS - Tools and components for Full-Stack JS apps](https://pizzajs.dev)
