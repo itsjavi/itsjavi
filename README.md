@@ -1,5 +1,7 @@
 Hi there, it's Javi 👋
 
+Senior Full-Stack Product Engineer focused on UX, modern web runtimes, performance, and developer experience.
+
 - 🏠 [Personal website](https://itsjavi.com)
 - ✍️ [Published projects](https://itsjavi.com/projects)
 - 🧪 [Experiments](https://itsjavi.com/experiments)
@@ -7,4 +9,6 @@ Hi there, it's Javi 👋
 - 👨🏻‍💻 Other side projects: 
   - [PokéPC.net](https://pokepc.net)
   - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
-  - [PizzaJS - Full-Stack tools](https://pizzajs.dev)
+
+🚀 For production-grade and actively maintained work, see [@sindriastack](https://github.com/sindriastack).
+This account focuses on experiments, prototypes, and ideas in progress.
