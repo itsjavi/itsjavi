@@ -11,4 +11,4 @@ Senior Full-Stack Product Engineer focused on UX, modern web runtimes, performan
   - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
 
 🚀 For production-grade and actively maintained work, see [@sindriastack](https://github.com/sindriastack).
-This account focuses on experiments, prototypes, and ideas in progress.
+This account focuses on experiments, prototypes, ideas in progress and other exploratory work.
