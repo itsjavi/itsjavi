@@ -9,6 +9,7 @@ Senior Full-Stack Product Engineer focused on UX, modern web runtimes, performan
 - 👨🏻‍💻 Other side projects: 
   - [PokéPC.net](https://pokepc.net)
   - [Official CSS Logo](https://github.com/CSS-Next/logo.css)
+  - [StoryLite, a lightweight Storybook alternative](https://itsjavi.com/storylite)
 
 My personal Github account focuses on experiments, prototypes, ideas in progress and other exploratory work.
 
